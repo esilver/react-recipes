@@ -1,6 +1,6 @@
 # React-recipes
 
-A single page app to proccess and view recpies from a json endpoint and decremnt/increment the amount of ingridients beased on servings. 
+A single page app to proccess and view recpies from a json endpoint and decremnt/increment the amount of ingridients based on servings. 
 
 This project template was built with [Create React App](https://github.com/facebookincubator/create-react-app), which provides a simple way to start React projects with no build configuration needed.
 
